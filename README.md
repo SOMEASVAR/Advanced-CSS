@@ -1,3 +1,4 @@
 # CSS-Advanced-Project
 ## Output
-![image](https://github.com/SarankumarJ/CSS-Advanced-Project/assets/94778101/2dacf082-a3fe-4527-9172-6f636a0e98c0)
+![image](https://github.com/user-attachments/assets/a661efca-6958-4daa-8764-e0d0b4b6ca46)
+
